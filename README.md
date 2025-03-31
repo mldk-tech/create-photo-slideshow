@@ -32,4 +32,7 @@ The script iterates through image files (common formats like PNG, JPG, GIF, etc.
 3.  Create a folder named `images` in the same directory as the script.
 4.  Populate the `images` folder with the pictures you want in your presentation.
 5.  Run the script from your terminal: `python your_script_name.py`
-6.  A `.pptx` file (e.g., `MyImagePresentation.pptx`) will be generated in the same directory.
+6.  A `.pptx` file (e.g., `presentation.pptx`) will be generated in the same directory.
+
+## Getting muisc
+1. https://pixabay.com/
